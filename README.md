@@ -1,8 +1,11 @@
 ##### NeuronArchitect - Reconstruction and visualisation of 3D neural morphology from two-photon imaging data #####
 
-We have provided both Sample data ready to use with the application and the Raw unprocessed data (Both before and after Cellpose). 
+We have provided both Sample data ready to use with the application and the Raw unprocessed data (Both before and after Cellpose).
+
 These datasets can be vizualized in ImageJ --> Link to download: https://imagej.nih.gov/ij/
+
 The Raw Cerrebelllar Cortex data-set can be run in Cellpose --> Link to download: https://github.com/mouseland/cellpose
+
 The SaveToBinary jupyter notebook in the Resources folder can be used to save the data-sets in 16 bit binary format that
 is required by the application
 
