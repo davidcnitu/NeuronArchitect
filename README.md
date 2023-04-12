@@ -1,5 +1,8 @@
 ##### NeuronArchitect - Reconstruction and visualisation of 3D neural morphology from two-photon imaging data #####
 
+Unity desktop application for reconstructing and visualizing 3D neural morphology, using the Marching cubes computer graphics algorithm. ![](ReconstructionProcess.gif)
+
+
 We have provided both Sample data ready to use with the application and the Raw unprocessed data (Both before and after Cellpose).
 
 These datasets can be vizualized in ImageJ --> Link to download: https://imagej.nih.gov/ij/
