@@ -78,3 +78,10 @@ Click on a neuron in order to display their positional properties, size and volu
 
 Click anywhere else to display the OVERVIEW  panel again. 
 
+# CHECKOUT this short application demo
+
+
+
+<p align="center">
+<img src="AppDemo.gif" alt="animated" />
+</p>
