@@ -3,7 +3,10 @@
 Unity desktop application for reconstructing and visualizing 3D neural morphology, using the Marching cubes computer graphics algorithm. 
 
 
+
+<p align="center">
 ![Alt text](RecontructionProcess.gif)
+ </p>
 
 
 We have provided both Sample data ready to use with the application and the Raw unprocessed data (Both before and after Cellpose).
