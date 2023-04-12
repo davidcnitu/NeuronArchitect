@@ -5,8 +5,8 @@ Unity desktop application for reconstructing and visualizing 3D neural morpholog
 
 
 <p align="center">
-![Alt text](RecontructionProcess.gif)
- </p>
+<img src="RecontructionProcess.gif" alt="animated" />
+</p>
 
 
 We have provided both Sample data ready to use with the application and the Raw unprocessed data (Both before and after Cellpose).
